@@ -1,4 +1,4 @@
-Node.js with Sucky MySql Sample [![Build Status](https://apibeta.shippable.com/projects/5373de85f39baf5a00c05ade/badge/master)](https://beta.shippable.com/projects/5373de85f39baf5a00c05ade)
+Node.js with Hothead MySql Sample [![Build Status](https://apibeta.shippable.com/projects/5373de85f39baf5a00c05ade/badge/master)](https://beta.shippable.com/projects/5373de85f39baf5a00c05ade)
 =================
 
 An example using MySql on Shippable with the Knex module.
